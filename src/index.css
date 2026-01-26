@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-blue: #576A8F;
+  --color-purple: #B7BDF7;
+  --color-cream: #FFF8DE;
+  --color-orange: #FF7444;
+
+  --font-amaticsc: "Amatic SC", cursive;
+  --font-roboto: "Roboto";
+}
