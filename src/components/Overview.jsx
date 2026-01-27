@@ -7,7 +7,7 @@ export default function Overview() {
 
             <div className = "max-w-5xl mx-auto text-center space-y-5">
                 <div>
-                    <h1 className = "text-lg font-bold">What is predictive policing?</h1>
+                    <h1 className = "text-xl font-bold">What is predictive policing?</h1>
 
                     <div>
                         Predictive policing is a technique that uses algorithms to predict and prevent crimes. 
@@ -19,7 +19,7 @@ export default function Overview() {
                 </div>
 
                 <div>
-                    <h1 className = "text-lg font-bold">What is PredPol?</h1>
+                    <h1 className = "text-xl font-bold">What is PredPol?</h1>
 
                     <div>
                         PredPol (short for "predictive policing") was one of the first and most popular predictive policing software. 
@@ -29,7 +29,7 @@ export default function Overview() {
                 </div>
 
                 <div>
-                    <h1 className = "text-lg font-bold">What is the Epidemic-Type Aftershock (ETAS) model?</h1>
+                    <h1 className = "text-xl font-bold">What is the Epidemic-Type Aftershock (ETAS) model?</h1>
 
                     <div>
                         The ETAS model provides the mathematical basis for PredPol.
