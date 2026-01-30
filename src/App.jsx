@@ -2,6 +2,7 @@ import Header from '../src/components/Header.jsx'
 import Overview from './components/Overview.jsx'
 import Model from './components/Model.jsx'
 import Critiques from './components/Critiques.jsx'
+import References from './components/References.jsx'
 import Footer from '../src/components/Footer.jsx'
 
 export default function App() {
@@ -12,6 +13,7 @@ export default function App() {
       <Overview />
       <Model />
       <Critiques />
+      <References/>
       <Footer />
     </>
   )

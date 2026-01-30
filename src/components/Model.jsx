@@ -8,7 +8,7 @@ export default function Model() {
     const pastCrime = <InlineMath math = {`i`}/>
 
     return (
-        <div className = "bg-orange p-3">
+        <div className = "bg-orange space-y-5 p-3">
             <h1 className = "text-5xl text-center font-amaticsc font-bold text-cream">Model</h1>
 
             <div className = "p-5 gap-5 grid md:grid-cols-3">

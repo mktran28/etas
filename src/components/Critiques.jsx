@@ -9,7 +9,7 @@ export default function Review() {
 
                     <div>
                         Reported crimes may not be representative of all crimes (Johnson et al., 2024). 
-                        Crime reporting rates are related to several factors, including but not limited to race and socioeconomic status (e.g., Williams et al., 2007).
+                        Crime reporting rates are related to several factors, including but not limited to race and socioeconomic status (e.g., Zaykowski et al., 2019).
                         <br/>
                         <br/>
                         → The model can increase policing in already overpoliced areas.
