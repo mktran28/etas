@@ -1,16 +1,31 @@
-# React + Vite
+# Epidemic-Type Aftershock (ETAS) Model Visualization
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, educational web page that explains the **Epidemic-Type Aftershock (ETAS)** model and its application to **predictive policing**.  
 
-Currently, two official plugins are available:
+The project focuses on making a mathematically non-trivial model understandable through clear structure, notation, and visual layout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## React Compiler
+This project presents:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- A **high-level introduction** to predictive policing and its real-world context  
+- An **algorithm-focused breakdown** of the ETAS model
+- A **clear explanation of the underlying mathematics and logic**, including:
+  - Crime intensity modeling as a time-dependent function
+  - Separation of **background events** and **triggered events**
+  - Parameter estimation using the **Expectation-Maximization (EM) algorithm**
+  - How iterative updates converge toward stable model parameters
 
-## Expanding the ESLint configuration
+This project aims to:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Translate **academic and algorithmic models** into clear, developer-friendly explanations  
+- Reason about **probabilistic systems, temporal processes, and iterative algorithms**  
+- Emphasize structured thinking around how mathematical models are implemented and evaluated in software systems
+
+## Tech Stack
+
+- React
+- HTML  
+- CSS
+- JavaScript
+- KaTeX (math rendering)
