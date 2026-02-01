@@ -1,8 +1,8 @@
 # Epidemic-Type Aftershock (ETAS) Model Visualization
 
-An educational web page that explains the **Epidemic-Type Aftershock (ETAS)** model and its application to **predictive policing**.  
+An educational web page explaining the **Epidemic-Type Aftershock (ETAS)** model and its application to **predictive policing**.  
 
-The project focuses on making a mathematically non-trivial model understandable through clear structure, notation, and visual layout.
+The project focuses on making a mathematically non-trivial model understandable through a detailed breakdown of the underlying algorithms.
 
 ## Overview
 
